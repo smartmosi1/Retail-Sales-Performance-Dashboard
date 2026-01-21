@@ -28,17 +28,37 @@ REPOSITORY CONTENTS
 - README.md — Project documentation  
 
 HOW TO USE
-
 1. Download the .pbix file.
 2. Open it using Power BI Desktop.
 3. Interact with slicers and visuals to explore insights.
 
-Author
+DASHBOARD PREVIEW
+Retail Sales Performance Dashboard
+![Retail Sales Performance Dashboard](Retail Sales Performance Dashboard.png)
 
+KPIs and Slicer
+![KPIs and Slicer](KPIs and SLICER.png)
+
+Customer and Sales Count Trend
+![Customer and Sales Count Trend](Customer and Sales Count Trend.png)
+
+Sales by Month
+![Sales by Month](Sales by Month.png)
+
+Store Performance
+![Store Performance](Store Performance.png)
+
+Total Sales by Hour
+![Total Sales by Hour](Total Sales by Hour.png)
+
+Total Sales by Payment Method
+![Total Sales by Payment Method](Total Sales by Payment Method.png)
+
+
+AUTHOR
 AJALAMOSES EBELE DORCAS
 Data Analyst / Business Intelligence Analyst  
 
 LICENSE
-
 This project is for educational and portfolio purposes.
 
